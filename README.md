@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Gen AI Project**
 
-- 🌱 I’m currently learning **Langchain, NextJS**
+- 🌱 I’m upskilling in **Langchain, NextJS**
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/maheshwaran-a-k-33465b289/)
 
