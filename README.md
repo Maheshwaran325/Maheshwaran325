@@ -7,7 +7,7 @@
 </p>
 <p align="left"> <a href="https://twitter.com/gingfreecss325" target="blank"><img src="https://img.shields.io/twitter/follow/gingfreecss325?logo=twitter&style=for-the-badge" alt="gingfreecss325" /></a> </p>
 
-- 🔭 I'm currently working on **Building AI-powered SaaS products **
+- 🔭 I'm currently working on **Building AI-powered SaaS products**
 
 - 🌱 I'm currently learning **Advanced multi-agent AI systems, Next.js full-stack scaling, and cloud deployments**
 
