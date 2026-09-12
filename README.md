@@ -52,9 +52,13 @@ The shirt in the banner isn't ironic — I ship with coding agents every day.
 
 ### Elsewhere
 
-[Résumé (PDF)](https://maheshwaran325-portfolio.netlify.app/Maheshwaran-A-K-Resume.pdf) ·
 
 [Portfolio](https://maheshwaran325-portfolio.netlify.app/) ·
 [LinkedIn](https://www.linkedin.com/in/maheshwaranak) ·
 [X](https://x.com/gingfreecss325) ·
 [maheshwaran325@gmail.com](mailto:maheshwaran325@gmail.com)
+
+---
+
+Most of what I build day to day lives in private repos — the graph below is
+the part that shows.
