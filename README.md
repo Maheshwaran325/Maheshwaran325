@@ -1,12 +1,14 @@
 <img src="banner.png" alt="Maheshwaran A K — AI-native full-stack engineer" width="100%">
 
-I'm a full-stack engineer in Salem, India. I work on the layer where machine
-learning stops being a model and starts being something a person can act on.
+I'm a full-stack engineer in Salem, India — **React and TypeScript** on the front,
+**FastAPI and Node** behind, **Postgres and MySQL** underneath.
 
-Right now I'm at **Bipolar Factory**, building the central command center for
-enterprise retail analytics — turning real-time Edge-AI inference into footfall
-heatmaps, demographics and ANPR that store operators actually use. Before that I
-founded **Statix.pro** and took its products from 0 to 1.
+Right now I'm at **Bipolar Factory** building the retail-analytics command center:
+the dashboards, APIs and data models that turn what the platform's AI systems
+output into footfall heatmaps, demographics and ANPR views operators can act on.
+I don't train the models — I build everything around them.
+
+Before that I founded **Statix.pro** and took its products from 0 to 1.
 
 ---
 
