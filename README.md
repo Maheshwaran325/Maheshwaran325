@@ -29,6 +29,8 @@ Before that I founded **Statix.pro** and took its products from 0 to 1.
 | [**Nebius-Debate-AI**](https://github.com/Maheshwaran325/Nebius-Debate-AI) | Two LLM agents argue a topic to resolution — prompt chaining and function calling over Nebius AI Studio | |
 | [**msme-inventory-lite**](https://github.com/Maheshwaran325/msme-inventory-lite) | Offline-tolerant inventory for corner shops. Idempotent CSV upsert by SKU, optimistic concurrency, OpenAPI | |
 | [**guidetoprofit**](https://github.com/Maheshwaran325/guidetoprofit) | Guide2Profit — financial modelling SaaS. 5-year forecasts, P&L, break-even, funding estimation | [live](https://cashcompassclient-git-main-maheshwaran325s-projects.vercel.app/) |
+| [**Land2Build**](https://github.com/Maheshwaran325/Land2Build) | AI-assisted construction planning — 3D site views in React Three Fiber, Leaflet mapping, offline storage in Dexie | |
+| [**bpf-the-ascension**](https://github.com/Maheshwaran325/bpf-the-ascension) | Browser boss-rush game in Phaser 3 and TypeScript. Deterministic scoring, local leaderboard, accessibility toggles | [play](https://bpf-the-ascension.vercel.app) |
 
 The work I'm proudest of — a multi-tenant ERP running finance for a 39-department
 institution — is closed-source. It's described in more detail on
@@ -37,16 +39,20 @@ institution — is closed-source. It's described in more detail on
 ### What I reach for
 
 ```
-frontend    React · Next.js · TypeScript · Redux Toolkit · MUI · Recharts
-backend     Node.js · Express · Python · FastAPI · PostgreSQL · MySQL
+frontend    React · Next.js · TypeScript · Redux Toolkit · MUI · Recharts · Streamlit
+backend     Node.js · Express · Python · FastAPI · Flask · Django
+data        PostgreSQL · MySQL · MongoDB · Supabase · S3 / MinIO
 ai          LangChain · LangGraph · LangFuse · HuggingFace · function calling
-platform    Vercel · Netlify · GitHub Actions · S3 / MinIO
-ai coding   Claude Code · Cursor · OpenCode · Cline · Codex · Gemini CLI
+platform    Vercel · Netlify · GitHub Actions · CI/CD
+auth        JWT · OAuth · Auth0 · CASL · RBAC
+ai coding   Claude Code · Cursor · OpenCode · Cline · Antigravity · Codex · Gemini CLI
 ```
 
 The shirt in the banner isn't ironic — I ship with coding agents every day.
 
 ### Elsewhere
+
+[Résumé (PDF)](https://maheshwaran325-portfolio.netlify.app/Maheshwaran-A-K-Resume.pdf) ·
 
 [Portfolio](https://maheshwaran325-portfolio.netlify.app/) ·
 [LinkedIn](https://www.linkedin.com/in/maheshwaranak) ·
