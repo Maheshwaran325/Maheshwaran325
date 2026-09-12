@@ -1,40 +1,52 @@
-# Hi 👋, I'm Maheshwaran A K
+<img src="banner.png" alt="Maheshwaran A K — AI-native full-stack engineer" width="100%">
 
-### A Passionate Vibe developer
+I'm a full-stack engineer in Salem, India. I work on the layer where machine
+learning stops being a model and starts being something a person can act on.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Maheshwaran325&label=Profile+Views&color=blue&style=plastic" />
-</p>
-<p align="left"> <a href="https://twitter.com/gingfreecss325" target="blank"><img src="https://img.shields.io/twitter/follow/gingfreecss325?logo=twitter&style=for-the-badge" alt="gingfreecss325" /></a> </p>
+Right now I'm at **Bipolar Factory**, building the central command center for
+enterprise retail analytics — turning real-time Edge-AI inference into footfall
+heatmaps, demographics and ANPR that store operators actually use. Before that I
+founded **Statix.pro** and took its products from 0 to 1.
 
-- 🔭 I'm currently working on **Building AI-powered SaaS products**
+---
 
-- 🌱 I'm currently learning **Advanced multi-agent AI systems, Next.js full-stack scaling, and cloud deployments**
+### Some numbers
 
-- 👯 I'm looking to collaborate on **AI products, research-driven tooling, and full-stack projects (Node.js, Python, TypeScript, LangGraph, Streamlit).**
+| | |
+| :-- | :-- |
+| **₹43.4 Cr** | budget processed through a 9-role RBAC approval engine I built, across 1,000+ proposals |
+| **330+** | active users in 39 departments, 14+ months continuously in production |
+| **100+** | files refactored out of a legacy codebase onto TypeScript and Redux Toolkit |
+| **IEEE** | published on AI-driven recruitment matching — [read the paper](https://ieeexplore.ieee.org/document/10127551) |
 
-- 🤝 I'm looking for help with **AI SaaS growth and real-world product scaling.**
+### Selected work
 
-- 💬 Ask me about **Generative AI agents, MERN stack development, SaaS architecture, and deploying real products fast.**
+| | | |
+| :-- | :-- | :-- |
+| [**maheshwaran-portfolio**](https://github.com/Maheshwaran325/maheshwaran-portfolio) | This site. React 19, TypeScript, Vite, no UI framework | [live](https://maheshwaran325-portfolio.netlify.app/) |
+| [**Nebius-Debate-AI**](https://github.com/Maheshwaran325/Nebius-Debate-AI) | Two LLM agents argue a topic to resolution — prompt chaining and function calling over Nebius AI Studio | |
+| [**msme-inventory-lite**](https://github.com/Maheshwaran325/msme-inventory-lite) | Offline-tolerant inventory for corner shops. Idempotent CSV upsert by SKU, optimistic concurrency, OpenAPI | |
+| [**guidetoprofit**](https://github.com/Maheshwaran325/guidetoprofit) | Guide2Profit — financial modelling SaaS. 5-year forecasts, P&L, break-even, funding estimation | [live](https://cashcompassclient-git-main-maheshwaran325s-projects.vercel.app/) |
 
-- 📫 How to reach me **maheshwaran325@gmail.com**
+The work I'm proudest of — a multi-tenant ERP running finance for a 39-department
+institution — is closed-source. It's described in more detail on
+[my portfolio](https://maheshwaran325-portfolio.netlify.app/#projects).
 
-- ⚡ Fun fact **I run a startup, build AI agents late at night, and still somehow watch anime before sleeping.**
+### What I reach for
 
-- 👨‍💻 All of my projects are available at **[https://maheshwaran325-portfolio.netlify.app/](https://maheshwaran325-portfolio.netlify.app/)**
+```
+frontend    React · Next.js · TypeScript · Redux Toolkit · MUI · Recharts
+backend     Node.js · Express · Python · FastAPI · PostgreSQL · MySQL
+ai          LangChain · LangGraph · LangFuse · HuggingFace · function calling
+platform    Vercel · Netlify · GitHub Actions · S3 / MinIO
+ai coding   Claude Code · Cursor · OpenCode · Cline · Codex · Gemini CLI
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Maheshwaran325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Maheshwaran325" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/maheshwaranak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maheshwaranak" height="30" width="40" /></a>
-<a href="https://twitter.com/gingfreecss325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gingfreecss325" height="30" width="40" /></a>
-</p>
+The shirt in the banner isn't ironic — I ship with coding agents every day.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gradio" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/gradio/FF7C00" alt="gradio" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+### Elsewhere
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maheshwaran325&theme=github_dark" />
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maheshwaran325&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maheshwaran325&theme=github_dark" />
-</div>
+[Portfolio](https://maheshwaran325-portfolio.netlify.app/) ·
+[LinkedIn](https://www.linkedin.com/in/maheshwaranak) ·
+[X](https://x.com/gingfreecss325) ·
+[maheshwaran325@gmail.com](mailto:maheshwaran325@gmail.com)
