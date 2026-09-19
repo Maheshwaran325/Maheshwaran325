@@ -1,6 +1,6 @@
 <img src="banner.png" alt="Maheshwaran A K — AI-native full-stack engineer" width="100%">
 
-I'm a full-stack engineer in Salem, India — **React and TypeScript** on the front,
+I'm a AI-Native full-stack engineer in Salem, India — **React and TypeScript** on the front,
 **FastAPI and Node** behind, **Postgres and MySQL** underneath.
 
 Right now I'm at **Bipolar Factory** building the retail-analytics command center:
