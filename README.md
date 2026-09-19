@@ -1,4 +1,3 @@
-<img src="banner.png" alt="Maheshwaran A K — AI-native full-stack engineer" width="100%">
 
 I'm a AI-Native full-stack engineer in Salem, India — **React and TypeScript** on the front,
 **FastAPI and Node** behind, **Postgres and MySQL** underneath.
