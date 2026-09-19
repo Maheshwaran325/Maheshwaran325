@@ -1,14 +1,12 @@
+## Hi, I’m Maheshwaran 👋
 
-I'm a AI-Native full-stack engineer in Salem, India — **React and TypeScript** on the front,
-**FastAPI and Node** behind, **Postgres and MySQL** underneath.
+I build the control rooms behind ambitious ideas.
 
-Right now I'm at **Bipolar Factory** building the retail-analytics command center:
-the dashboards, APIs and data models that turn what the platform's AI systems
-output into footfall heatmaps, demographics and ANPR views operators can act on.
-I don't train the models — I build everything around them.
+When a product needs more than a chat box — real workflows, permissions, dashboards, audit trails, data that stays correct, and an interface people can use under pressure — that’s the part I enjoy building.
 
-Before that I founded **Statix.pro** and took its products from 0 to 1.
+I’m an AI-native full-stack engineer from Salem, India. I work across React, TypeScript, Node.js, FastAPI, PostgreSQL, and MySQL, usually at the point where messy real-world operations meet software.
 
+I’ve built approval engines that move serious budgets, turned legacy code into maintainable TypeScript systems, and taken products from blank page to production. AI is part of how I work, but dependable software is the thing I ship.
 ---
 
 ### Some numbers
