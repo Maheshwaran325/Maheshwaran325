@@ -7,6 +7,7 @@ When a product needs more than a chat box — real workflows, permissions, dashb
 I’m an AI-native full-stack engineer from Salem, India. I work across React, TypeScript, Node.js, FastAPI, PostgreSQL, and MySQL, usually at the point where messy real-world operations meet software.
 
 I’ve built approval engines that move serious budgets, turned legacy code into maintainable TypeScript systems, and taken products from blank page to production. AI is part of how I work, but dependable software is the thing I ship.
+
 ---
 
 ### Some numbers
